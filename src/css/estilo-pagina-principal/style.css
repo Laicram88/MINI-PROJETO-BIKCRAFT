@@ -55,8 +55,9 @@ img {
   max-width: 1000px;
 }
 
-.botao {
+a {
   background: #ee2211;
+  text-decoration: none;
   padding: 15px 30px;
   color: white;
   border-radius: 4px;
