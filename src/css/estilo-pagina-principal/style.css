@@ -35,7 +35,7 @@ ul {
   gap: 1.25rem;
 }
 
-a:hover {
+ul a:hover {
   border: 2px solid #e21;
 }
 
@@ -54,7 +54,7 @@ a {
   color: #c6c6c6;
   padding: 2.5rem;
   align-self: center;
-  background-image: url("/./src/img/onda.svg");
+  background-image: url("./onda.svg");
 }
 
 .conteudo {
