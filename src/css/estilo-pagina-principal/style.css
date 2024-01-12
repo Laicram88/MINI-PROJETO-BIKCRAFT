@@ -54,7 +54,7 @@ a {
   color: #c6c6c6;
   padding: 2.5rem;
   align-self: center;
-  background-image: url("/src/img/onda.svg");
+  background-image: url("/./src/img/onda.svg");
 }
 
 .conteudo {
