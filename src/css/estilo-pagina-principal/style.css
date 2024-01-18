@@ -50,6 +50,7 @@ a {
   padding: 1rem 2rem;
   color: #000;
   display: block;
+  border: 2px solid transparent;
 }
 
 .caixa3 {
@@ -118,6 +119,7 @@ a {
   grid-template-columns: auto 1fr;
   gap: 10px 20px;
   padding: 20px;
+  border-left: 4px solid transparent;
 }
 
 .descricao p {
